@@ -8,22 +8,22 @@ Install sendmail and configure it. Reconfiguration triggers restart.
 
 A template to generate the sendmail.mc file.
 
-**submit_mc_template**
+* **submit_mc_template**
 
 A template to generate the submit.mc file.
 
-**access_template**
+* **access_template**
 
 A template to generate the access file.
 
-**mailertable_template**
+* **mailertable_template**
 
 A template to generate the mailertable file.
 
-**virtusertable_template**
+* **virtusertable_template**
 
 A template to generate the virtusertable file.
 
-**local_host_names_template**
+* **local_host_names_template**
 
 A template to generate the local-host-names file.
